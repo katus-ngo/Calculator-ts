@@ -13,7 +13,7 @@ Simulate a simple calculator with typescript
 
 ## Installation
 - Step 1: `npm install`
-- Step 2: run command `node /node_modlue/.bin/ts-node $operatorName $num1 $num2`
+- Step 2: run command `node /node_modlue/.bin/ts-node run.ts $operatorName $num1 $num2`
 
-          node /node_modlue/.bin/ts-node + 1 2  // 3
+           node node_modules/.bin/ts-node run.ts + 1 2    // 3
  
